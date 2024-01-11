@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.main{
+    width: 100%;
+}
+.box{
+    width: 70%;
+    margin: 75px 133px 76px 133px;
+    text-align: center;
+}
+h1{
+    font-family: cursive;
+}
+.big{
+    font-weight: lighter;
+    color: #5c5959;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+.small{
+    color: #5c5959;
+    font-size: small;
+    font-family:sans-serif;
+    margin-bottom: -10px;
+}
+
+ul li{
+    display: inline-block;
+    padding: 10px 20px 10px 20px;
+}
+ul :first-child{
+    color: #ff0000;
+}
+.box img{
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
